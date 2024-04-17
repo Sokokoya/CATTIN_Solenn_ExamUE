@@ -1,0 +1,11 @@
+EXAM SIDESCROLLER 3D UNREAL
+
+J'ai eu beaucoup de mal a me mettre dans l'exercice et ai eu enormément de mal a juste mettre la cam
+ainsi que les deplacements du joueur comme il fallait.
+
+Apres plus d'une heure j'ai reussi, et jai eu plus de facilité à créer un blueprint pour les pickup
+puis par la suite les blueprint pour les pieges.
+
+Je voulais faire les variantes "objets ramassables ++" et "shaders" mais pour les objets, 
+j'avais deja créé tous mes blueprints et je savais pas trop comment gérer les Data Asset avec 
+ce que j'avais déjà fait. Pour les Shaders, j'ai simplement manqué de temps...
